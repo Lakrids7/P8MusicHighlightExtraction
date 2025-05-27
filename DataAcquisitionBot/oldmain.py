@@ -1,4 +1,4 @@
-# Bot token: MTM0NjU1NDEwOTE3NTUyOTQ4Mw.Gdm3jJ.dIntsqtT7mJ9jEkD3xa_h8X6ENgX1GfT_tyLnE
+# Bot token:
 import subprocess
 import discord
 import re
