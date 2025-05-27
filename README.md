@@ -4,6 +4,8 @@
 
 Welcome to the repository for my P8 semester project at Aalborg University. This project explores the challenge of automatically identifying and extracting musical highlights from full-length songs, leveraging deep learning and Spotify's preview data.
 
+NOTE: I will add a link to my project report when my exams are over, so you can read more about the motiviations and limitations for this project
+
 ---
 
 ## Repository Structure
